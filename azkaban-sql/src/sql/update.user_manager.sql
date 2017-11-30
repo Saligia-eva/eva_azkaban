@@ -1,0 +1,1 @@
+ALTER TABLE `azkaban_group_manager` ADD `yarn_flag_name` varchar(50) COMMENT 'yarn falg';
